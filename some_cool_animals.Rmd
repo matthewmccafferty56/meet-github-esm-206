@@ -16,10 +16,10 @@ The organization of this document probably seems strange. That's because it's pa
 
 ### Cool animal fun facts {.tabset .tabset-fade}
 
-#### Ringtail Cat
+#### Ringtail Cat 
 
 ![Ringtail Cat (Courtsey of VA Zoo)](img/ringtail_cat.jpg)
-
+-They can rotate their hind feet a 180 degrees for climbing things
 
 
 
